@@ -1,0 +1,6 @@
+export const SET_TABITEM = "SET_TABITEM"
+export const SET_RECOMMEND = "SET_RECOMMEND"
+export const SET_LOADING = "SET_LOADING"
+export const SET_HOTWORD = "SET_HOTWORD"
+export const SET_SUGGEST = "SET_SUGGEST"
+export const SET_SORT = "SET_SORT"
